@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { CardSection } from './common';
 import { Text,
         TouchableWithoutFeedback,
+        TouchableOpacity,
         View,
         LayoutAnimation
       } from 'react-native';
@@ -30,7 +31,7 @@ class ListItem extends Component {
     const { id, title } = this.props.library;
 
     return (
-      <TouchableWithoutFeedback
+      <TouchableOpacity
         onPress={() => this.props.selectLibrary(id)}
       >
         <View>
@@ -41,7 +42,7 @@ class ListItem extends Component {
           </CardSection>
           {this.renderDescription()}
         </View>
-      </TouchableWithoutFeedback>
+      </TouchableOpacity>
     )
   }
 }
