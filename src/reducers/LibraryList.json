@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "title": "Intro",
+    "description": "Full Stack Developer currently based in Austin, Texas. Experience with single-page applications in React/Redux, full-stack JavaScript development. (512) 412-5916"
+  },
+  {
+    "id": 1,
+    "title": "Technical Skills",
+    "description": "JavaScript, HTML, CSS, ES6/ES7 React/Redux, React Native, Node, jQuery, React Router, Express, MongoDB / Mongoose, Next.js, Adobe Creative Suite(Illustrator, Photoshop, Lightroom, InDesign), responsive web design"
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Development",
+    "description": "GPS IOS APP - Mobile app using React Native & Redux for logging GPS coordinates saved in decimal degrees to a Firebase back end. The app utilizes a Geolocation API in React Native and the users current location is displayed using the Map View component developed by Airbnb for React Native."
+  },
+  {
+    "id": 3,
+    "title": "Freelance Designer/Photographer",
+    "description": "Graphic design for private clients. I have created detailed vector art for logos, t-shirts and digital album artwork. Headshot photography for actors, corporate executives, performers, musicians, business professionals."
+  },
+  {
+    "id": 4,
+    "title": "Designer",
+    "description": "SPACECRAFT, AUSTIN TX - Long term contract to re-create artwork from large print publications for web & mobile graphics. Extensive creation of vector artwork in Adobe Illustrator."
+  },
+  {
+    "id": 5,
+    "title": "Senior Designer",
+    "description": "CREATIVE BEARINGS, STEAMBOAT CO - Web and print graphic design, web site maintenance and redesign of existing web sites. Advertising design, logo design & corporate identity."
+  },
+  {
+    "id": 6,
+    "title": "Education",
+    "description": "AUSTIN CODING ACADEMY - Austin, TX. Full Stack Developer Bootcamp, Fall 2017 TEXAS CHRISTIAN UNIVERSITY - Fort Worth, TX. BFA in Graphic Design, May 2000"
+  },
+]
