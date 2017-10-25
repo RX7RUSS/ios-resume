@@ -16,6 +16,9 @@ const App = () => {
     <View style={{ flex:1 }}>
       <Header headerText="Russ Savage, UI Developer" />
       <LibraryList />
+      <CardSection>
+        <Button />
+      </CardSection>
     </View>
     </Provider>
   );
