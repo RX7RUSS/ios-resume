@@ -14,7 +14,7 @@ const App = () => {
   return(
     <Provider store={createStore(reducers)}>
     <View style={{ flex:1 }}>
-      <Header headerText="Russ Savage, IOS Resume" />
+      <Header headerText="Russ Savage, Mobile Developer" />
       <LibraryList />
       <CardSection>
         <Button />
